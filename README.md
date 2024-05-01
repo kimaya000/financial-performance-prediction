@@ -8,13 +8,13 @@ The solution in this repository presents a predictive model developed to forecas
 
 ## File Description
 - financial-performance-prediction-final.py : Python file containing the code for data preprocessing, model training, and prediction generation.
-- train-financial-performance-prediction.csv: training dataset.
-- test-financial-performance-prediction.csv: test dataset.
+- train-5.csv: training dataset.
+- test.csv: test dataset.
 
 ## Usage
 To use this solution:
 1. Clone the repository to your local machine.
-2. Install the train and test datasets listed in `train-financial-performance-prediction.csv` and `test-financial-performance-prediction.csv`.
+2. Install the train and test datasets listed in `train-5.csv` and `test.csv`.
 3. Run the `financial-performance-prediction-final.py` notebook to generate predictions for the financial data points.
 
 ## Note
